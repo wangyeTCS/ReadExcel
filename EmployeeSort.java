@@ -74,7 +74,7 @@ public class EmployeeSort
 				 String [] temp=allstr.split("/");
 				 tempFN=temp[0];
 				 tempLN=temp[1];
-				 tempJT=temp[3];
+				 tempJT=temp[2];
 				 
 				 
 				 Employee emp=new Employee(tempId,tempFN,tempLN,tempJT);
